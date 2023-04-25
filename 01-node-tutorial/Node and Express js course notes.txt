@@ -1,0 +1,10 @@
+!> Npm is a node package manager and is used to install packages in a project.
+2> We only install globally when we use the package in all of our projects else we can use it as a dev dependency.
+3> We dont't need to add node files in the repo use can set it up personaly.
+4> Package.json file contains all the details regarding project and will automatically install all necessary file whrn we run npm i .
+5> Package.lock.json conatins all the dependencies for the installed dependencies as many packages use multiple dependencies in order to function.
+6> Evenloop is the offloading of events that cosume cpu time and larter after completion of th etask it is executed till then the immidiate code gets executed.
+7> Promises in js are used to deal with scenarios when we are not sure if the task will be fullfilled or not so to not crash our program and generate an error we use promises in our program.
+8> {flag a} - its is used with in write or read file to start appending the next inerations of the functions into the file we are accessing. Flags are used to declare the operation mode of the task to perform.
+9> Payload -->  When ever a post request is generated and an html body with desired outout is to be provide to the used then that shipment is termed as a payload in terms of node js / servers. 
+
